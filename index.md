@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## eTagger - Watch Out for Energy Patterns! Towards TaggingEnergy Sensitive GitHub Issues
 
 You can use the [editor on GitHub](https://github.com/tritims/eTagger/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
