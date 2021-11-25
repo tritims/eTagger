@@ -37,6 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
  -->
  
- #### Tool Description
+ ## Tool Description
  
 eTagger is a Chrome extension that labels energy sensitive issues from Android projects on GitHub with energy patterns associated with the issue. The goal of eTagger is to make both the developers and the maintainers of the project aware of the energy efficiency when they take up the issues raised in the project, thereby increasing their adoption and making the projects more energy efficient.
