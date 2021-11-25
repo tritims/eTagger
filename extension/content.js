@@ -12,7 +12,7 @@ getLink = (i) => {
     return "https://tqrg.github.io/energy-patterns/#/patterns/" + epLinkHash[i]
 }
 
-function getPatternsForIssues(issues) {
+async function getPatternsForIssues(issues) {
     console.log(issues)
     // http request to backend
     var xhr = new XMLHttpRequest();  
@@ -23,23 +23,11 @@ function getPatternsForIssues(issues) {
       // If the request completed, close the extension popup
       if (xhr.readyState == 4)
         if (xhr.status == 200)
-            console.log(xhr.responseText) 
+            return xhr.response;
     };
     xhr.send(JSON.stringify({
         items: issues
     })); 
-    // let patterns = await(
-    //     fetch(
-    //         '/',
-    //         {
-    //             method: "POST",
-    //             body: {
-    //                 items: issues
-    //             }
-
-    //         }
-    //     )
-    // ) 
 }
 
 epHash = {
@@ -117,6 +105,7 @@ epDescHash = {
     21: 'Perform tasks only when the user specifically asks'
 }
 
+// Only for testing purposes
 dummyresponse = {
     "labels": [
         {
@@ -364,8 +353,8 @@ chrome.runtime.onMessage.addListener(
       }
   });
   
-// taglist = getPatternsForIssues(issues)
-for(let tag of dummyresponse['labels']){
+taglist = await getPatternsForIssues(issues)
+for(let tag of taglist['labels']){
     console.log(tag)
     tags = getTagsToAppend(tag['labels']);
     index = tag['index']
