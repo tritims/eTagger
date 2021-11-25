@@ -38,3 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  -->
  
  #### Tool Description
+ 
+ eTagger is a Chrome extension that labels energy sensitive issues on GitHub with energy patterns associated with the issue. 
