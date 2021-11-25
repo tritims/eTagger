@@ -1,0 +1,12 @@
+.tag {
+    width: max-content;
+    height: 20px;
+    border-radius: 12px;
+    /* background: purple; */
+    background: red;
+    /* background: yellowgreen; */
+    font-size: 11px;
+    padding: 2px;
+    text-align: center;
+    color: white;
+}
