@@ -1552,3 +1552,7 @@ select {
     width: 560px;
   }
 }
+
+.screenshot-list {
+  list-style: none !important;
+}
