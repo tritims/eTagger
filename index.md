@@ -39,4 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  
  #### Tool Description
  
- eTagger is a Chrome extension that labels energy sensitive issues on GitHub with energy patterns associated with the issue. 
+eTagger is a Chrome extension that labels energy sensitive issues from Android projects on GitHub with energy patterns associated with the issue. The goal of eTagger is to make both the developers and the maintainers of the project aware of the energy efficiency when they take up the issues raised in the project, thereby increasing their adoption and making the projects more energy efficient.
