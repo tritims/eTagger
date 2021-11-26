@@ -1,125 +1,125 @@
-,url,title,model_labels,manual_labels,model_vector,manual_vector
-0,https://github.com/yeriomin/YalpStore/issues/10,Dark mode,"[10, 2, 0]",['0'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-1,https://github.com/rdoeffinger/Dictionary/issues/72,"Downloadmanager Message ""2 files are downloaded"" is not removed after error","[19, 5, 12]","['19', ' 5']","[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]","[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"
-3,https://github.com/ZeeRooo/MaterialFBook/issues/73,Notification for Messages,"[3, 15, 5]",['5'],"[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-5,https://github.com/ZeeRooo/MaterialFBook/issues/30,Battery drain,"[9, 7]","['9', ' 7', ' 18']","[0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"
-6,https://github.com/PaulWoitaschek/Voice/issues/569,App is devouring battery like there's no tomorrow.,[18],"['15', ' 14', ' 18']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0]"
-7,https://github.com/PaulWoitaschek/Voice/issues/490,Exit application when playback timer expires,"[10, 8, 2]",['2'],"[0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-10,https://github.com/PaulWoitaschek/Voice/issues/411,Does faster playback speed use more battery?,"[1, 13]",['13'],"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"
-12,https://github.com/PaulWoitaschek/Voice/issues/391,Feature request: Disable bluetooth on sleep,[9],['9'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-13,https://github.com/PaulWoitaschek/Voice/issues/384,too much disk activity,[18],"['18', ' 13']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]"
-14,https://github.com/PaulWoitaschek/Voice/issues/355,Service remains active when not in use,"[4, 21, 19]","['21', ' 4', ' 14']","[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1]","[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1]"
-15,https://github.com/PaulWoitaschek/Voice/issues/299,More intelligent file scanner,"[6, 13, 20]","['13', ' 6', ' 12']","[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]","[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]"
-16,https://github.com/PaulWoitaschek/Voice/issues/215,High power usage during playback.,[13],"['13', ' 12']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]"
-17,https://github.com/PaulWoitaschek/Voice/issues/189,Empty database after a reboot,"[10, 2]","['10', ' 2', ' 4']","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-18,https://github.com/PaulWoitaschek/Voice/issues/78,Possible battery drain: App is running all the time.,"[13, 15]","['15', ' 14', ' 18']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0]"
-19,https://github.com/jensstein/oandbackup/issues/133,sheduled backup stucks in the process,"[11, 18, 2]","['11', ' 9', ' 14']","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"
-23,https://github.com/microg/android_packages_apps_UnifiedNlp/issues/23,Unload the backends when not in use,"[21, 12, 19]","['12', ' 3']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1]","[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-27,https://github.com/kraigs-android/kraigsandroid/issues/95,incompatibility with KitKat low-memory optimizations,"[12, 18, 2]","['12', ' 18', ' 2']","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]"
-28,https://github.com/kraigs-android/kraigsandroid/issues/78,[feature request] notification icon on the right,"[3, 5]",['5'],"[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-29,https://github.com/kraigs-android/kraigsandroid/issues/60,"Alarm fails except for tiny vibrate, screen backlight won't turn on, power consumption rockets","[10, 7, 2]","['2', ' 15']","[0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"
-30,https://github.com/kraigs-android/kraigsandroid/issues/52,Disable alarm time out,"[2, 18, 8]","['2', ' 14']","[0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"
-33,https://github.com/micolous/metrodroid/issues/26,LG G3 Mifare Classic read failure,"[18, 2, 8]",['13'],"[0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"
-34,https://github.com/drpout/boilr/issues/140,Auto silence alarm after 10 mins,[],['2'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-35,https://github.com/drpout/boilr/issues/131,Refresh prices per user request,"[1, 13, 14]","['21', ' 1', ' 13']","[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]","[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]"
-36,https://github.com/drpout/boilr/issues/71,redesign triggered alarm pannel,[18],['0'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-37,https://github.com/openbmap/radiocells-scanner-android/issues/175,Location Listener is not removed when user turns off GPS in the middle of scanning session,"[10, 15, 12]","['3', ' 18', ' 2']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"
-38,https://github.com/openbmap/radiocells-scanner-android/issues/124,Feature request: Permanent scan service,[3],"['3', ' 4']","[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-39,https://github.com/openbmap/radiocells-scanner-android/issues/105,wakelock kept - excessive battery use,"[13, 16, 15]","['15', ' 14', ' 18']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0]"
-40,https://github.com/openbmap/radiocells-scanner-android/issues/79,Option to disable battery saver,"[7, 8, 9]",['15'],"[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"
-41,https://github.com/openbmap/radiocells-scanner-android/issues/59,GPS is not released properly after logging,"[7, 10, 2]","['10', ' 2', ' 3']","[0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-42,https://github.com/openbmap/radiocells-scanner-android/issues/54,Stop scanning on low battery,"[19, 10, 2]",['7'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-44,https://github.com/Marlinski/Rumble/issues/3,Devices not discoverable under Android Wi-fi Hotspot,"[10, 2, 9]",['9'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-45,https://github.com/ubergeek42/weechat-android/issues/194,High battery usage (higher than the screen!),[],"['15', ' 14', ' 18']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0]"
-46,https://github.com/ubergeek42/weechat-android/issues/73,User enabled background notification system,"[5, 15]","['5', ' 14']","[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"
-47,https://github.com/ubergeek42/weechat-android/issues/41,excessive communication,[18],['12'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-48,https://github.com/ubergeek42/weechat-android/issues/13,Better connection/disconnection handling,"[5, 14, 6]","['6', ' 4', ' 8']","[0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-49,https://github.com/ubergeek42/weechat-android/issues/7,Custom notification options,"[5, 3]",['5'],"[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-51,https://github.com/n76/wifi_backend/issues/37,WiFi Location Service and Android 6.0.1,[15],['15'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"
-53,https://github.com/n76/wifi_backend/issues/1,High battery consumption even though location is disabled,"[15, 16, 6]","['15', ' 16', ' 6']","[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]"
-54,https://github.com/nextgis/android_gisapp/issues/209,Settings: turn off geolocation,"[10, 8, 2]","['14', ' 2']","[0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"
-57,https://github.com/pot8oe/mythmote/issues/82,Mythmote consistently disconnects,"[11, 10, 2]",['1'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-58,https://github.com/pot8oe/mythmote/issues/27,Changing the aspect of phone restarts connection process and causes 11 second pause ,[1],['1'],"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-59,https://github.com/daktak/xposed_downloader/issues/17,"Black theme ""AMOLED""",[0],['0'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-60,https://github.com/fixme-lausanne/MyHackerspace/issues/33,Quite high battery usage,[],"['15', ' 14', ' 18']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0]"
-62,https://github.com/mozilla/MozStumbler/issues/1724, The MLS android app abruptly stops generating reports even though the GPS is set.,"[9, 10, 2]",['2'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-64,https://github.com/mozilla/MozStumbler/issues/1664,A way to force unpause?,"[19, 2, 18]",['19'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"
-65,https://github.com/mozilla/MozStumbler/issues/1490,Accelerometer Motion sensor gaps in scanning,"[18, 17, 7]","['17', ' 16', ' 7']","[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]"
-67,https://github.com/mozilla/MozStumbler/issues/1449,Motion Sensing V2 Planning,[],"['17', ' 16', ' 7']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]"
-69,https://github.com/mozilla/MozStumbler/issues/1415,Accelerometer not working with screen off,"[7, 10, 2]",['19'],"[0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"
-70,https://github.com/mozilla/MozStumbler/issues/1409,[Regression] MozStumbler's UI gets unresponsive after scanning a while (low end devices),"[10, 12, 2]","['0', ' 12', ' 2']","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-71,https://github.com/mozilla/MozStumbler/issues/1394,"Scanning pauses when I stand still, but doesn't resume when I start moving","[2, 10]",['2'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-72,https://github.com/mozilla/MozStumbler/issues/1386,add explicit high-power mode,"[16, 3, 13]",['7'],"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-73,https://github.com/mozilla/MozStumbler/issues/1317,1.5.2 drains the battery by leaving the GPS active after stop stumbling,[14],"['14', ' 15']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]"
-74,https://github.com/mozilla/MozStumbler/issues/1301,only scan for GPS before first GPS fix,"[4, 21]","['4', ' 21']","[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"
-75,https://github.com/mozilla/MozStumbler/issues/1300,battery saving technique is only effective once the device had a GPS signal and doesn't move,"[19, 12, 9]","['16', ' 15', ' 6']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]","[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]"
-76,https://github.com/mozilla/MozStumbler/issues/1293,ACRA: NPE BatteryCheck.batteryLevel,"[7, 15]","['7', ' 15']","[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"
-77,https://github.com/mozilla/MozStumbler/issues/1290,"No motion paused: MapLocationListener switched to network location, just turn this off completely",[19],['18'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"
-81,https://github.com/mozilla/MozStumbler/issues/1124,Screen Off Scanning: Reports doesn't increase when the screen turned off. ,"[12, 10, 2]","['10', ' 19']","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"
-83,https://github.com/mozilla/MozStumbler/issues/1107,Hook accelerometer to enable/disable wifi/cell scanning,"[7, 17, 9]","['17', ' 16', ' 7']","[0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]"
-84,https://github.com/mozilla/MozStumbler/issues/1105,Upload only on charge,"[16, 21, 4]","['4', ' 21']","[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]","[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"
-86,https://github.com/mozilla/MozStumbler/issues/1069,"Disable ""keep screen on while in map"" when in low power situations","[9, 2, 19]","['2', ' 6']","[0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]","[0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-88,https://github.com/mozilla/MozStumbler/issues/1048,Crash on low battery,"[10, 7, 2]","['6', ' 7']","[0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-89,https://github.com/mozilla/MozStumbler/issues/1023,"MainApp::onStop crashes (if battery <15%, app crash on startup)",[],"['6', ' 7']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-91,https://github.com/mozilla/MozStumbler/issues/943,stumbler did not turn off on 15% battery,[10],"['6', ' 7']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-92,https://github.com/mozilla/MozStumbler/issues/869,"No collection: observation count increases, but no data in queue, no data uploaded","[10, 2]",['8'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-94,https://github.com/mozilla/MozStumbler/issues/716,Points with WIFI turned off get not imported,"[12, 10, 2]",['9'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-96,https://github.com/mozilla/MozStumbler/issues/614,"Everytime after uploading something, I get: Unfortunately, MozStumbler has stopped",[11],['11'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-97,https://github.com/mozilla/MozStumbler/issues/584,Investigate battery consumption of Wifi and Cell scans,"[7, 9, 15]","['9', ' 15']","[0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"
-99,https://github.com/mozilla/MozStumbler/issues/547,Add an option to keep the phone's screen on ,"[14, 15]","['14', ' 15', ' 0']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]"
-100,https://github.com/mozilla/MozStumbler/issues/542,intelligent battery saving mode for walking and other slow moving,"[14, 6]","['6', ' 14']","[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"
-102,https://github.com/mozilla/MozStumbler/issues/406,Upload compressed JSON using HTTP `Content-Encoding: gzip`,[5],['8'],"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-105,https://github.com/mozilla/MozStumbler/issues/371,Use no more than percent of battery,[11],"['6', ' 7']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-106,https://github.com/mozilla/MozStumbler/issues/369,Interval based peroidic scanning,[3],['13'],"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"
-107,https://github.com/mozilla/MozStumbler/issues/353,Add option to configure stumbler's low battery limit,"[15, 14, 6]","['14', ' 15', ' 6']","[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]"
-109,https://github.com/mozilla/MozStumbler/issues/340,MozStumbler >= v0.9.0 no longer scans WiFi very well on BlackBerry 10.2.1,[9],['9'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-110,https://github.com/mozilla/MozStumbler/issues/329,Wishlist: bring back the manual on/off button,"[8, 5]",['14'],"[0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"
-111,https://github.com/mozilla/MozStumbler/issues/328,Location tracking activates despite exiting the app,"[15, 14, 5]","['14', ' 15', ' 18']","[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0]"
-112,https://github.com/mozilla/MozStumbler/issues/327,Disabling power saving mode does not work,"[7, 10, 2]",['7'],"[0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-113,https://github.com/mozilla/MozStumbler/issues/323,No Map Tiles/Images (Test Mozilla Location Service),"[12, 2, 10]",['12'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-114,https://github.com/mozilla/MozStumbler/issues/316,"Wifi settings, wrong signature (FDroid update), test service->no visible map","[10, 9, 2]",['9'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-115,https://github.com/mozilla/MozStumbler/issues/312,Activity recognition should not stop scanning when power-saving mode is off,"[15, 6, 14]","['6', ' 15', ' 14']","[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]"
-119,https://github.com/mozilla/MozStumbler/issues/241,Don't force Wi-Fi always ON,"[2, 12, 10]","['14', ' 4']","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"
-120,https://github.com/mozilla/MozStumbler/issues/198,Allow to pause scanning,"[14, 19, 8]",['19'],"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"
-122,https://github.com/mozilla/MozStumbler/issues/131,Stumbling without data enabled fails to upload any/most data,"[11, 10, 2]","['11', ' 8']","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-123,https://github.com/mozilla/MozStumbler/issues/41,Pause scanning on ACTION_BATTERY_LOW intent,"[21, 19, 8]","['6', ' 7']","[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1]","[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-125,https://github.com/mozilla/MozStumbler/issues/32,"Investigate ""Wi-Fi scan-only mode"" (REQUEST_SCAN_ALWAYS_AVAILABLE) in JB 4.3","[15, 4, 9]",['9'],"[0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-126,https://github.com/mozilla/MozStumbler/issues/21,Enable both active and passive stumbling modes for the Client,"[15, 14, 5]","['15', ' 14']","[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]"
-127,https://github.com/Etuldan/spaRSS/issues/34,black theme for amoled displays,[0],['0'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-128,https://github.com/Etuldan/spaRSS/issues/11,Refresh animation doesn't stop,[13],"['13', ' 20']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]"
-131,https://github.com/kenkendk/android-bluez-ime/issues/49,Error: connection refused,"[12, 10, 2]",['1'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-140,https://github.com/PrivacyApps/offline-calendar/issues/4,Calendar tries to synchronize,[11],['13'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"
-141,https://github.com/miku-nyan/Overchan-Android/issues/81,Saved images not added to Android Media Index,"[12, 2, 10]",['12'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-142,https://github.com/microg/IchnaeaNlpBackend/issues/13,Exceptions in log,[21],['10'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-146,https://github.com/wiglenet/wigle-wifi-wardriving/issues/39,Client does not store most accurate data,"[12, 10, 2]","['16', ' 12']","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]"
-148,https://github.com/lkorth/screen-notifications/issues/44,Battery usage,"[7, 15]","['7', ' 15', ' 6']","[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"
-149,https://github.com/lkorth/screen-notifications/issues/15,Proximity Sensor,[],['17'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"
-150,https://github.com/ThibaudM/timelapse-sony/issues/14,"Keep screen active, update camera list","[15, 3, 13]","['0', ' 15']","[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"
-152,https://github.com/douzifly/clear-todolist/issues/3,black amoled-friendly design ,[0],['0'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-154,https://github.com/freeotp/freeotp-android/issues/24,[RFE] Have a setting to show all token codes right away without an extra tap,"[16, 3, 4]","['19', ' 4']","[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"
-155,https://github.com/freeotp/freeotp-android/issues/19,Galaxy S4 battery use,[15],"['7', ' 15', ' 6']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"
-156,https://github.com/cSploit/android/issues/732,Black theme AMOLED,[0],['0'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-158,https://github.com/cSploit/android/issues/333,Bruteforce WiFi!!,"[18, 9]",['9'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-159,https://github.com/cSploit/android/issues/276,Dark Theme doesn't show,"[12, 2, 10]",['0'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-163,https://github.com/cSploit/android/issues/63,double confirm to exit,[3],['19'],"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"
-165,https://github.com/daneren2005/Subsonic/issues/121,Theme with black background for OLED devices,[0],['0'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-170,https://github.com/abarisain/dmix/issues/587,High CPU usage when trying to stream,"[20, 13]","['20', ' 13', ' 15']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]"
-172,https://github.com/abarisain/dmix/issues/504,Problem with MPDroid-beta and multi-album-artists,"[7, 18]",['18'],"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"
-174,https://github.com/abarisain/dmix/issues/296,[Feature] Now Playing notification,"[15, 5, 3]",['5'],"[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-175,https://github.com/abarisain/dmix/issues/225,[Wishlist] Control music player via Notification,[15],['5'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-177,https://github.com/abarisain/dmix/issues/180,Connection lost when screen goes off,"[9, 7, 2]",['1'],"[0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-179,https://github.com/abarisain/dmix/issues/151,Ongoing notification with controls while playing,"[3, 13, 15]","['5', ' 15']","[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]"
-180,https://github.com/abarisain/dmix/issues/113,Crash browsing in files mode,"[8, 18]",['8'],"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-183,https://github.com/abarisain/dmix/issues/36,Closing connection,"[8, 10, 2]",['2'],"[0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-184,https://github.com/abarisain/dmix/issues/3,Streaming doesn't restart and eats battery,"[2, 10]",['20'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"
-187,https://github.com/aarddict/android/issues/28,make scrolling and page turns e-ink friendly,[20],['20'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"
-189,https://github.com/klassm/andFHEM/issues/1214,Dimmer instead of switch for fgs-223,"[11, 2]",['0'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
-191,https://github.com/klassm/andFHEM/issues/1183,"High Battery Usage on ""Remote Widget Refresh""","[13, 20, 15]","['15', ' 13', ' 20']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]"
-192,https://github.com/klassm/andFHEM/issues/1152,Improve widget battery usage,"[14, 20, 15]","['14', ' 20', ' 15']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0]"
-195,https://github.com/klassm/andFHEM/issues/914,Support for Aeotec MultiSensor,[],['17'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"
-202,https://github.com/klassm/andFHEM/issues/729,Don't show toggle buttons for CUL_HM powermeter devices without on and off in setList,"[4, 15, 9]",['19'],"[0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]"
-203,https://github.com/klassm/andFHEM/issues/444,Fix strong battery usage,"[16, 20, 15]","['15', ' 14', ' 18']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0]"
-213,https://github.com/mpietrzak/apv/issues/37,Feature request: full-screen,"[3, 13]","['0', ' 20']","[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"
-214,https://github.com/telecapoland/jamendo-android/issues/38,"Service seems running in the background, even when I stop the app","[11, 4, 19]","['18', ' 3']","[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]","[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"
-215,https://github.com/mapsme/omim/issues/7563,3D buildings doesn't stay off,[2],['20'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"
-216,https://github.com/hrydgard/ppsspp/issues/5623,Multithreading seems to be broken on the BCM28155 chipset(1.2 dual core cortex-a9 and videcore IV HW graphics),[9],['20'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"
+url,title,model_labels,manual_labels
+https://github.com/yeriomin/YalpStore/issues/10,Dark mode,"[10, 2, 0]",[0]
+https://github.com/rdoeffinger/Dictionary/issues/72,"Downloadmanager Message ""2 files are downloaded"" is not removed after error","[19, 5, 12]","[19, 5]"
+https://github.com/ZeeRooo/MaterialFBook/issues/73,Notification for Messages,"[3, 15, 5]",[5]
+https://github.com/ZeeRooo/MaterialFBook/issues/30,Battery drain,"[9, 7]","[9, 7, 18]"
+https://github.com/PaulWoitaschek/Voice/issues/569,App is devouring battery like there's no tomorrow.,[18],"[15, 14, 18]"
+https://github.com/PaulWoitaschek/Voice/issues/490,Exit application when playback timer expires,"[10, 8, 2]",[2]
+https://github.com/PaulWoitaschek/Voice/issues/411,Does faster playback speed use more battery?,"[1, 13]",[13]
+https://github.com/PaulWoitaschek/Voice/issues/391,Feature request: Disable bluetooth on sleep,[9],[9]
+https://github.com/PaulWoitaschek/Voice/issues/384,too much disk activity,[18],"[18, 13]"
+https://github.com/PaulWoitaschek/Voice/issues/355,Service remains active when not in use,"[4, 21, 19]","[21, 4, 14]"
+https://github.com/PaulWoitaschek/Voice/issues/299,More intelligent file scanner,"[6, 13, 20]","[13, 6, 12]"
+https://github.com/PaulWoitaschek/Voice/issues/215,High power usage during playback.,[13],"[13, 12]"
+https://github.com/PaulWoitaschek/Voice/issues/189,Empty database after a reboot,"[10, 2]","[10, 2, 4]"
+https://github.com/PaulWoitaschek/Voice/issues/78,Possible battery drain: App is running all the time.,"[13, 15]","[15, 14, 18]"
+https://github.com/jensstein/oandbackup/issues/133,sheduled backup stucks in the process,"[11, 18, 2]","[11, 9, 14]"
+https://github.com/microg/android_packages_apps_UnifiedNlp/issues/23,Unload the backends when not in use,"[21, 12, 19]","[12, 3]"
+https://github.com/kraigs-android/kraigsandroid/issues/95,incompatibility with KitKat low-memory optimizations,"[12, 18, 2]","[12, 18, 2]"
+https://github.com/kraigs-android/kraigsandroid/issues/78,[feature request] notification icon on the right,"[3, 5]",[5]
+https://github.com/kraigs-android/kraigsandroid/issues/60,"Alarm fails except for tiny vibrate, screen backlight won't turn on, power consumption rockets","[10, 7, 2]","[2, 15]"
+https://github.com/kraigs-android/kraigsandroid/issues/52,Disable alarm time out,"[2, 18, 8]","[2, 14]"
+https://github.com/micolous/metrodroid/issues/26,LG G3 Mifare Classic read failure,"[18, 2, 8]",[13]
+https://github.com/drpout/boilr/issues/140,Auto silence alarm after 10 mins,[],[2]
+https://github.com/drpout/boilr/issues/131,Refresh prices per user request,"[1, 13, 14]","[21, 1, 13]"
+https://github.com/drpout/boilr/issues/71,redesign triggered alarm pannel,[18],[0]
+https://github.com/openbmap/radiocells-scanner-android/issues/175,Location Listener is not removed when user turns off GPS in the middle of scanning session,"[10, 15, 12]","[3, 18, 2]"
+https://github.com/openbmap/radiocells-scanner-android/issues/124,Feature request: Permanent scan service,[3],"[3, 4]"
+https://github.com/openbmap/radiocells-scanner-android/issues/105,wakelock kept - excessive battery use,"[13, 16, 15]","[15, 14, 18]"
+https://github.com/openbmap/radiocells-scanner-android/issues/79,Option to disable battery saver,"[7, 8, 9]",[15]
+https://github.com/openbmap/radiocells-scanner-android/issues/59,GPS is not released properly after logging,"[7, 10, 2]","[10, 2, 3]"
+https://github.com/openbmap/radiocells-scanner-android/issues/54,Stop scanning on low battery,"[19, 10, 2]",[7]
+https://github.com/Marlinski/Rumble/issues/3,Devices not discoverable under Android Wi-fi Hotspot,"[10, 2, 9]",[9]
+https://github.com/ubergeek42/weechat-android/issues/194,High battery usage (higher than the screen!),[],"[15, 14, 18]"
+https://github.com/ubergeek42/weechat-android/issues/73,User enabled background notification system,"[5, 15]","[5, 14]"
+https://github.com/ubergeek42/weechat-android/issues/41,excessive communication,[18],[12]
+https://github.com/ubergeek42/weechat-android/issues/13,Better connection/disconnection handling,"[5, 14, 6]","[6, 4, 8]"
+https://github.com/ubergeek42/weechat-android/issues/7,Custom notification options,"[5, 3]",[5]
+https://github.com/n76/wifi_backend/issues/37,WiFi Location Service and Android 6.0.1,[15],[15]
+https://github.com/n76/wifi_backend/issues/1,High battery consumption even though location is disabled,"[15, 16, 6]","[15, 16, 6]"
+https://github.com/nextgis/android_gisapp/issues/209,Settings: turn off geolocation,"[10, 8, 2]","[14, 2]"
+https://github.com/pot8oe/mythmote/issues/82,Mythmote consistently disconnects,"[11, 10, 2]",[1]
+https://github.com/pot8oe/mythmote/issues/27,Changing the aspect of phone restarts connection process and causes 11 second pause ,[1],[1]
+https://github.com/daktak/xposed_downloader/issues/17,"Black theme ""AMOLED""",[0],[0]
+https://github.com/fixme-lausanne/MyHackerspace/issues/33,Quite high battery usage,[],"[15, 14, 18]"
+https://github.com/mozilla/MozStumbler/issues/1724, The MLS android app abruptly stops generating reports even though the GPS is set.,"[9, 10, 2]",[2]
+https://github.com/mozilla/MozStumbler/issues/1664,A way to force unpause?,"[19, 2, 18]",[19]
+https://github.com/mozilla/MozStumbler/issues/1490,Accelerometer Motion sensor gaps in scanning,"[18, 17, 7]","[17, 16, 7]"
+https://github.com/mozilla/MozStumbler/issues/1449,Motion Sensing V2 Planning,[],"[17, 16, 7]"
+https://github.com/mozilla/MozStumbler/issues/1415,Accelerometer not working with screen off,"[7, 10, 2]",[19]
+https://github.com/mozilla/MozStumbler/issues/1409,[Regression] MozStumbler's UI gets unresponsive after scanning a while (low end devices),"[10, 12, 2]","[0, 12, 2]"
+https://github.com/mozilla/MozStumbler/issues/1394,"Scanning pauses when I stand still, but doesn't resume when I start moving","[2, 10]",[2]
+https://github.com/mozilla/MozStumbler/issues/1386,add explicit high-power mode,"[16, 3, 13]",[7]
+https://github.com/mozilla/MozStumbler/issues/1317,1.5.2 drains the battery by leaving the GPS active after stop stumbling,[14],"[14, 15]"
+https://github.com/mozilla/MozStumbler/issues/1301,only scan for GPS before first GPS fix,"[4, 21]","[4, 21]"
+https://github.com/mozilla/MozStumbler/issues/1300,battery saving technique is only effective once the device had a GPS signal and doesn't move,"[19, 12, 9]","[16, 15, 6]"
+https://github.com/mozilla/MozStumbler/issues/1293,ACRA: NPE BatteryCheck.batteryLevel,"[7, 15]","[7, 15]"
+https://github.com/mozilla/MozStumbler/issues/1290,"No motion paused: MapLocationListener switched to network location, just turn this off completely",[19],[18]
+https://github.com/mozilla/MozStumbler/issues/1124,Screen Off Scanning: Reports doesn't increase when the screen turned off. ,"[12, 10, 2]","[10, 19]"
+https://github.com/mozilla/MozStumbler/issues/1107,Hook accelerometer to enable/disable wifi/cell scanning,"[7, 17, 9]","[17, 16, 7]"
+https://github.com/mozilla/MozStumbler/issues/1105,Upload only on charge,"[16, 21, 4]","[4, 21]"
+https://github.com/mozilla/MozStumbler/issues/1069,"Disable ""keep screen on while in map"" when in low power situations","[9, 2, 19]","[2, 6]"
+https://github.com/mozilla/MozStumbler/issues/1048,Crash on low battery,"[10, 7, 2]","[6, 7]"
+https://github.com/mozilla/MozStumbler/issues/1023,"MainApp::onStop crashes (if battery <15%, app crash on startup)",[],"[6, 7]"
+https://github.com/mozilla/MozStumbler/issues/943,stumbler did not turn off on 15% battery,[10],"[6, 7]"
+https://github.com/mozilla/MozStumbler/issues/869,"No collection: observation count increases, but no data in queue, no data uploaded","[10, 2]",[8]
+https://github.com/mozilla/MozStumbler/issues/716,Points with WIFI turned off get not imported,"[12, 10, 2]",[9]
+https://github.com/mozilla/MozStumbler/issues/614,"Everytime after uploading something, I get: Unfortunately, MozStumbler has stopped",[11],[11]
+https://github.com/mozilla/MozStumbler/issues/584,Investigate battery consumption of Wifi and Cell scans,"[7, 9, 15]","[9, 15]"
+https://github.com/mozilla/MozStumbler/issues/547,Add an option to keep the phone's screen on ,"[14, 15]","[14, 15, 0]"
+https://github.com/mozilla/MozStumbler/issues/542,intelligent battery saving mode for walking and other slow moving,"[14, 6]","[6, 14]"
+https://github.com/mozilla/MozStumbler/issues/406,Upload compressed JSON using HTTP `Content-Encoding: gzip`,[5],[8]
+https://github.com/mozilla/MozStumbler/issues/371,Use no more than percent of battery,[11],"[6, 7]"
+https://github.com/mozilla/MozStumbler/issues/369,Interval based peroidic scanning,[3],[13]
+https://github.com/mozilla/MozStumbler/issues/353,Add option to configure stumbler's low battery limit,"[15, 14, 6]","[14, 15, 6]"
+https://github.com/mozilla/MozStumbler/issues/340,MozStumbler >= v0.9.0 no longer scans WiFi very well on BlackBerry 10.2.1,[9],[9]
+https://github.com/mozilla/MozStumbler/issues/329,Wishlist: bring back the manual on/off button,"[8, 5]",[14]
+https://github.com/mozilla/MozStumbler/issues/328,Location tracking activates despite exiting the app,"[15, 14, 5]","[14, 15, 18]"
+https://github.com/mozilla/MozStumbler/issues/327,Disabling power saving mode does not work,"[7, 10, 2]",[7]
+https://github.com/mozilla/MozStumbler/issues/323,No Map Tiles/Images (Test Mozilla Location Service),"[12, 2, 10]",[12]
+https://github.com/mozilla/MozStumbler/issues/316,"Wifi settings, wrong signature (FDroid update), test service->no visible map","[10, 9, 2]",[9]
+https://github.com/mozilla/MozStumbler/issues/312,Activity recognition should not stop scanning when power-saving mode is off,"[15, 6, 14]","[6, 15, 14]"
+https://github.com/mozilla/MozStumbler/issues/241,Don't force Wi-Fi always ON,"[2, 12, 10]","[14, 4]"
+https://github.com/mozilla/MozStumbler/issues/198,Allow to pause scanning,"[14, 19, 8]",[19]
+https://github.com/mozilla/MozStumbler/issues/131,Stumbling without data enabled fails to upload any/most data,"[11, 10, 2]","[11, 8]"
+https://github.com/mozilla/MozStumbler/issues/41,Pause scanning on ACTION_BATTERY_LOW intent,"[21, 19, 8]","[6, 7]"
+https://github.com/mozilla/MozStumbler/issues/32,"Investigate ""Wi-Fi scan-only mode"" (REQUEST_SCAN_ALWAYS_AVAILABLE) in JB 4.3","[15, 4, 9]",[9]
+https://github.com/mozilla/MozStumbler/issues/21,Enable both active and passive stumbling modes for the Client,"[15, 14, 5]","[15, 14]"
+https://github.com/Etuldan/spaRSS/issues/34,black theme for amoled displays,[0],[0]
+https://github.com/Etuldan/spaRSS/issues/11,Refresh animation doesn't stop,[13],"[13, 20]"
+https://github.com/kenkendk/android-bluez-ime/issues/49,Error: connection refused,"[12, 10, 2]",[1]
+https://github.com/PrivacyApps/offline-calendar/issues/4,Calendar tries to synchronize,[11],[13]
+https://github.com/miku-nyan/Overchan-Android/issues/81,Saved images not added to Android Media Index,"[12, 2, 10]",[12]
+https://github.com/microg/IchnaeaNlpBackend/issues/13,Exceptions in log,[21],[10]
+https://github.com/wiglenet/wigle-wifi-wardriving/issues/39,Client does not store most accurate data,"[12, 10, 2]","[16, 12]"
+https://github.com/lkorth/screen-notifications/issues/44,Battery usage,"[7, 15]","[7, 15, 6]"
+https://github.com/lkorth/screen-notifications/issues/15,Proximity Sensor,[],[17]
+https://github.com/ThibaudM/timelapse-sony/issues/14,"Keep screen active, update camera list","[15, 3, 13]","[0, 15]"
+https://github.com/douzifly/clear-todolist/issues/3,black amoled-friendly design ,[0],[0]
+https://github.com/freeotp/freeotp-android/issues/24,[RFE] Have a setting to show all token codes right away without an extra tap,"[16, 3, 4]","[19, 4]"
+https://github.com/freeotp/freeotp-android/issues/19,Galaxy S4 battery use,[15],"[7, 15, 6]"
+https://github.com/cSploit/android/issues/732,Black theme AMOLED,[0],[0]
+https://github.com/cSploit/android/issues/333,Bruteforce WiFi!!,"[18, 9]",[9]
+https://github.com/cSploit/android/issues/276,Dark Theme doesn't show,"[12, 2, 10]",[0]
+https://github.com/cSploit/android/issues/63,double confirm to exit,[3],[19]
+https://github.com/daneren2005/Subsonic/issues/121,Theme with black background for OLED devices,[0],[0]
+https://github.com/abarisain/dmix/issues/587,High CPU usage when trying to stream,"[20, 13]","[20, 13, 15]"
+https://github.com/abarisain/dmix/issues/504,Problem with MPDroid-beta and multi-album-artists,"[7, 18]",[18]
+https://github.com/abarisain/dmix/issues/296,[Feature] Now Playing notification,"[15, 5, 3]",[5]
+https://github.com/abarisain/dmix/issues/225,[Wishlist] Control music player via Notification,[15],[5]
+https://github.com/abarisain/dmix/issues/180,Connection lost when screen goes off,"[9, 7, 2]",[1]
+https://github.com/abarisain/dmix/issues/151,Ongoing notification with controls while playing,"[3, 13, 15]","[5, 15]"
+https://github.com/abarisain/dmix/issues/113,Crash browsing in files mode,"[8, 18]",[8]
+https://github.com/abarisain/dmix/issues/36,Closing connection,"[8, 10, 2]",[2]
+https://github.com/abarisain/dmix/issues/3,Streaming doesn't restart and eats battery,"[2, 10]",[20]
+https://github.com/aarddict/android/issues/28,make scrolling and page turns e-ink friendly,[20],[20]
+https://github.com/klassm/andFHEM/issues/1214,Dimmer instead of switch for fgs-223,"[11, 2]",[0]
+https://github.com/klassm/andFHEM/issues/1183,"High Battery Usage on ""Remote Widget Refresh""","[13, 20, 15]","[15, 13, 20]"
+https://github.com/klassm/andFHEM/issues/1152,Improve widget battery usage,"[14, 20, 15]","[14, 20, 15]"
+https://github.com/klassm/andFHEM/issues/914,Support for Aeotec MultiSensor,[],[17]
+https://github.com/klassm/andFHEM/issues/729,Don't show toggle buttons for CUL_HM powermeter devices without on and off in setList,"[4, 15, 9]",[19]
+https://github.com/klassm/andFHEM/issues/444,Fix strong battery usage,"[16, 20, 15]","[15, 14, 18]"
+https://github.com/mpietrzak/apv/issues/37,Feature request: full-screen,"[3, 13]","[0, 20]"
+https://github.com/telecapoland/jamendo-android/issues/38,"Service seems running in the background, even when I stop the app","[11, 4, 19]","[18, 3]"
+https://github.com/mapsme/omim/issues/7563,3D buildings doesn't stay off,[2],[20]
+https://github.com/hrydgard/ppsspp/issues/5623,Multithreading seems to be broken on the BCM28155 chipset(1.2 dual core cortex-a9 and videcore IV HW graphics),[9],[20]
