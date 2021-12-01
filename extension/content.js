@@ -2,28 +2,25 @@
 var ele = document.querySelectorAll('[id^=issue_]')
 c = 0
 url = "127.0.0.1:5000"
-// var Request = require("sdk/request").Request;
-getPattern = (e) => {
-    if(e.text)
-    console.log(e.index, e.text)
-}
 
 getLink = (i) => {
     return "https://tqrg.github.io/energy-patterns/#/patterns/" + epLinkHash[i]
 }
 
-async function getPatternsForIssues(issues) {
-    console.log(issues)
+function getPatternsForIssues(issues, callback) {
+    // console.log(issues)
     // http request to backend
     var xhr = new XMLHttpRequest();  
-    xhr.open("POST", "http://127.0.0.1:5000/");  
+    xhr.open("POST", "http://localhost:5000/");  
     xhr.setRequestHeader('Access-Control-Allow-Origin', '*');
     xhr.setRequestHeader('Content-type', 'application/json');
     xhr.onreadystatechange = function() { 
       // If the request completed, close the extension popup
       if (xhr.readyState == 4)
-        if (xhr.status == 200)
-            return xhr.response;
+        if (xhr.status == 200){
+            // console.log(JSON.parse(xhr.responseText))
+            callback(JSON.parse(xhr.responseText))
+        }
     };
     xhr.send(JSON.stringify({
         items: issues
@@ -105,198 +102,14 @@ epDescHash = {
     21: 'Perform tasks only when the user specifically asks'
 }
 
-// Only for testing purposes
-dummyresponse = {
-    "labels": [
-        {
-            "index": "1",
-            "labels": [
-                2,
-                18,
-                8
-            ]
-        },
-        {
-            "index": "3",
-            "labels": [
-                21,
-                19
-            ]
-        },
-        {
-            "index": "5",
-            "labels": [
-                15,
-                5
-            ]
-        },
-        {
-            "index": "7",
-            "labels": [
-                16,
-                21
-            ]
-        },
-        {
-            "index": "9",
-            "labels": [
-                2,
-                9
-            ]
-        },
-        {
-            "index": "11",
-            "labels": [
-                18,
-                5,
-                8
-            ]
-        },
-        {
-            "index": "13",
-            "labels": [
-                21,
-                5,
-                3
-            ]
-        },
-        {
-            "index": "15",
-            "labels": [
-                11
-            ]
-        },
-        {
-            "index": "17",
-            "labels": [
-                7,
-                11,
-                18
-            ]
-        },
-        {
-            "index": "19",
-            "labels": [
-                7,
-                8
-            ]
-        },
-        {
-            "index": "21",
-            "labels": []
-        },
-        {
-            "index": "23",
-            "labels": [
-                5,
-                12
-            ]
-        },
-        {
-            "index": "25",
-            "labels": [
-                3,
-                19,
-                14
-            ]
-        },
-        {
-            "index": "27",
-            "labels": [
-                9,
-                10,
-                2
-            ]
-        },
-        {
-            "index": "29",
-            "labels": [
-                12,
-                10,
-                2
-            ]
-        },
-        {
-            "index": "31",
-            "labels": [
-                5
-            ]
-        },
-        {
-            "index": "33",
-            "labels": [
-                2,
-                10
-            ]
-        },
-        {
-            "index": "35",
-            "labels": [
-                0
-            ]
-        },
-        {
-            "index": "37",
-            "labels": [
-                8,
-                3,
-                5
-            ]
-        },
-        {
-            "index": "39",
-            "labels": []
-        },
-        {
-            "index": "41",
-            "labels": [
-                8,
-                14,
-                5
-            ]
-        },
-        {
-            "index": "43",
-            "labels": [
-                11,
-                19
-            ]
-        },
-        {
-            "index": "45",
-            "labels": [
-                13
-            ]
-        },
-        {
-            "index": "47",
-            "labels": [
-                18,
-                2
-            ]
-        },
-        {
-            "index": "49",
-            "labels": [
-                5
-            ]
-        }
-    ]
-}
 getTagsToAppend = (tags) => {
     tagElements = []
     for(let t of tags){
-        // console.log(t)
         tagElements.push(getTag(t, epHash[t]))
     }
     return tagElements
 }
 
-dummyTagList = [
-    {"index": 0, "tags": [1, 2, 3]},
-    {"index": 1, "tags": [9]},
-    {"index": 2, "tags": [7, 11]}
-]
 getTag = (index, tagName) => {
     element = document.createElement("div")
     element.setAttribute('class', 'tag')
@@ -310,7 +123,7 @@ getTag = (index, tagName) => {
     return link
 }
 
-function recompute() {
+async function recompute() {
     ele = document.querySelectorAll('[id^=issue_]')
     var issues = []
     for(x in ele){
@@ -323,24 +136,24 @@ function recompute() {
         }
     }
     // console.log(issues)
-    // taglist = getPatternsForIssues(issues)
-    for(let tag of dummyresponse['labels']){
-        console.log(tag)
-        tags = getTagsToAppend(tag['labels']);
-        index = tag['index']
-        if(tags.length > 0){
-            ul = ele[index].parentNode.appendChild(document.createElement('ul'));
-            for(let l of tags){
-                li = ul.appendChild(document.createElement('li'))
-                li.appendChild(l)
-                li.style.float = 'left'
-                li.style.margin = '2px'
-                li.style.listStyleType = 'None'
-            }
+    getPatternsForIssues(issues, function(taglist){
+        for(let tag of taglist['labels']){
+            // console.log(tag)
+            tags = getTagsToAppend(tag['labels']);
+            index = tag['index']
+            if(tags.length > 0){
+                ul = ele[index].parentNode.appendChild(document.createElement('ul'));
+                for(let l of tags){
+                    li = ul.appendChild(document.createElement('li'))
+                    li.appendChild(l)
+                    li.style.float = 'left'
+                    li.style.margin = '2px'
+                    li.style.listStyleType = 'None'
+                }
+            }  
+            
         }
-        
-        
-    }
+    })
 }
 
 
@@ -353,22 +166,5 @@ chrome.runtime.onMessage.addListener(
       }
   });
   
-taglist = await getPatternsForIssues(issues)
-for(let tag of taglist['labels']){
-    console.log(tag)
-    tags = getTagsToAppend(tag['labels']);
-    index = tag['index']
-    if(tags.length > 0){
-        ul = ele[index].parentNode.appendChild(document.createElement('ul'));
-        for(let l of tags){
-            li = ul.appendChild(document.createElement('li'))
-            li.appendChild(l)
-            li.style.float = 'left'
-            li.style.margin = '2px'
-            li.style.listStyleType = 'None'
-        }
-    }
-    
-    
-}
+
 

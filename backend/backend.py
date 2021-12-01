@@ -14,162 +14,6 @@ from sentence_transformers import SentenceTransformer
 
 model = SentenceTransformer('bert-base-nli-mean-tokens')
 
-# Only for testing purposes
-dummyresponse = {
-    "labels": [
-        {
-            "index": "1",
-            "labels": []
-        },
-        {
-            "index": "3",
-            "labels": [
-                12,
-                10,
-                2
-            ]
-        },
-        {
-            "index": "5",
-            "labels": []
-        },
-        {
-            "index": "7",
-            "labels": [
-                6,
-                13,
-                14
-            ]
-        },
-        {
-            "index": "9",
-            "labels": [
-                18
-            ]
-        },
-        {
-            "index": "11",
-            "labels": [
-                2
-            ]
-        },
-        {
-            "index": "13",
-            "labels": [
-                7,
-                9
-            ]
-        },
-        {
-            "index": "15",
-            "labels": [
-                21,
-                5,
-                3
-            ]
-        },
-        {
-            "index": "17",
-            "labels": []
-        },
-        {
-            "index": "19",
-            "labels": [
-                2,
-                10
-            ]
-        },
-        {
-            "index": "21",
-            "labels": [
-                12,
-                2,
-                10
-            ]
-        },
-        {
-            "index": "23",
-            "labels": []
-        },
-        {
-            "index": "25",
-            "labels": []
-        },
-        {
-            "index": "27",
-            "labels": []
-        },
-        {
-            "index": "29",
-            "labels": []
-        },
-        {
-            "index": "31",
-            "labels": [
-                1,
-                9,
-                18
-            ]
-        },
-        {
-            "index": "33",
-            "labels": [
-                9,
-                10,
-                2
-            ]
-        },
-        {
-            "index": "35",
-            "labels": [
-                21,
-                4,
-                11
-            ]
-        },
-        {
-            "index": "37",
-            "labels": [
-                15
-            ]
-        },
-        {
-            "index": "39",
-            "labels": [
-                5,
-                12
-            ]
-        },
-        {
-            "index": "41",
-            "labels": [
-                15
-            ]
-        },
-        {
-            "index": "43",
-            "labels": [
-                15
-            ]
-        },
-        {
-            "index": "45",
-            "labels": []
-        },
-        {
-            "index": "47",
-            "labels": [
-                0
-            ]
-        },
-        {
-            "index": "49",
-            "labels": [
-                2
-            ]
-        }
-    ]
-}
 
 epDescHash = {
     0: 'Provide a dark UI color theme on devices with AMOLED screens.',
@@ -212,23 +56,12 @@ def label_issue(issue_title):
     return labels
 
 app = Flask(__name__)
-# CORS(app, resources={r"/*": {"origin": "*"}})
 CORS(app)
-# app.config['CORS_HEADERS'] = 'Content-Type'
-# CORS(app, resources={r"*": {"origins": "*"}})
 
-@app.after_request
-def after_request(response):
-  response.headers.add('Access-Control-Allow-Origin', '*')
-  response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
-  response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
-  response.headers.add('Access-Control-Allow-Credentials', 'true')
-  response.headers.add("Access-Control-Allow-Headers", "Access-Control-Allow-Headers, Origin,Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers");
 
-  return response
 
 @app.route("/", methods=["POST"])
-@cross_origin()
+# @cross_origin()
 def home():
     if not 'items' in request.json:
         return "no data"
@@ -242,7 +75,6 @@ def home():
         "labels": labels
     }), mimetype='application/json')
 
-    # return Response(json.dumps(dummyresponse, mimetype='application/json'))
     
 if __name__ == "__main__":
     app.run(debug=True)
