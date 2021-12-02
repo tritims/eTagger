@@ -3,6 +3,9 @@ Watch Out for Energy Patterns! Towards TaggingEnergy Sensitive GitHub Issues
 # Description
 eTagger is a Chrome extension that labels GitHub issues from Android project repositories with the associated energy patterns. More information about the energy patterns used can be found at [here](https://tqrg.github.io/energy-patterns/#/)
 
+# System Requirements
+Have [Python 3.x](https://www.python.org/downloads/) installed in your system.
+
 # Steps to run
 1. Clone the repository using ```git clone https://github.com/tritims/eTagger.git```
 2. Navigate to the **backend** folder and run ```pip3 install requirements.txt```
